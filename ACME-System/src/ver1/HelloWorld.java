@@ -7,5 +7,10 @@ public class HelloWorld {
 		System.out.println("Walker is working from walker1");
 
 	}
+	
+	public static void heyNow() {
+		String msg = "Hey Now!";
+		System.out.println(msg);
+	}
 
 }
